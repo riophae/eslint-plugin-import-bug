@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-import-bug",
+  "private": true,
+  "scripts": {
+    "test": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "dependencies": {
+    "is-promise": "^2.1.0"
+  }
+}
